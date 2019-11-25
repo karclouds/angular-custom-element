@@ -1,0 +1,56 @@
+{
+  "appMessagesAndLabels":{
+      "contactBusiness":"1-888-588-3977",
+      "contactRetail":"1-800-539-1539",
+
+      "onlineBankingLbl":"Online Banking",
+      "onlineBankingAoLbl":"Online Banking",
+      "onlineBankingUapLbl":"Online Banking",
+      "onlineBankingBolLbl":"Online Banking",
+
+      "existingCustomerTitleLbl": "Already a Customer?",
+
+      "onlineBankingTitleLbl": "Secure Sign On",
+      "onlineBankingTitleKey":"Online Banking",
+      "onlineBankingTitleAo":"Online Banking",
+      "onlineBankingTitleBolstr":"Online Banking",
+      "onlineBankingTitleUap":"Online Banking",
+
+      "authenticateYourAccountBtn": "Authenticate Your Account",
+      "authenticateYourAccountBtnKey": "Authenticate Your Account",
+      "authenticateYourAccountBtnAo": "Authenticate Your Account",
+      "authenticateYourAccountBtnBolstr": "Sign On",
+      "authenticateYourAccountBtnUap": "Authenticate Your Account",
+
+      "enrollInOnlineBankingBtn": "Enroll in Online Banking",
+      "enrollInOnlineBankingBtnKey": "Enroll in Online Banking",
+      "enrollInOnlineBankingBtnAo": "Enroll in Online Banking",
+      "enrollInOnlineBankingBtnBolstr": "Enroll in Online Banking",
+      "enrollInOnlineBankingBtnUap": "Enroll in Online Banking",
+
+      
+      "loadingLbl":"loading",
+      "userIdLbl":"User ID",
+      "passwordLbl":"Password",
+      "forgetUserIdLbl": "Forgot User ID",
+      "forgetUserIdPasswordLbl": "Forgot User ID or Password?",
+      "forgotPasswordLbl": "Forgot Password", 
+      "switchUserIdlbl": "Switch User", 
+      "saveUserNameLbl":"Save user ID and remember this device",
+      "enterYourUsrIdLbl": "Enter your user ID to get started",
+      "enterYourPwdLbl": "Enter your password to continue",
+      "signOnBtn":"Secure Sign On",
+      "newSignonLearnMoreLnk" : "<p>New sign on! <a href='https://www.key.com/nextgensecurity' title='New sign on Learn more' target='_blank' class='learnmore-link'>Learn more</a>.</p> ",
+      
+      "continueBtn":"Continue",
+      "cancelBtn":"Cancel",
+      "invalidCredentialErr": "The User ID or password is incorrect. Please try again.",
+      "systemErr": "System Error. Please try again in a few minutes.",
+      "systemLoadErr" : "Please accept our apology if you're having trouble accessing digital banking. We're working hard to resolve the problem. While we do that, please feel free to contact 1-800-KEY2YOU (539-2968); we'll be happy to provide options to help you with your banking needs.  Thank you again for your understanding.",
+      "lockoutTextErr": "Your Online Banking account is restricted. To verify your identity and gain access, please call us at {PHONE_NO}.",
+      "passwordResetErr": "The User ID or password is incorrect. Please try again.",
+      "forbiddenErr": "We are unable to process your request. Please contact Customer Service at {PHONE_NO} for assistance.",
+      "userSuspendedErr":"Your request cannot be completed at this time. Please contact us at {PHONE_NO} Monday-Friday 8:00 AM to 7:30 PM ET.",
+      "redirectmsg": "Authenticating.. Please wait."
+  }
+}

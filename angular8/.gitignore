@@ -1,0 +1,11 @@
+/.DS_Store
+/node_modules/
+/dist/
+/package-lock.json
+src/app/.DS_Store
+src/.DS_Store
+/reports/
+.DS_Store
+src/automation/modules/dist/
+src/automation/reports/
+/coverage/

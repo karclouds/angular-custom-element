@@ -1,0 +1,84 @@
+{
+  "version": "1.0",
+  "channel": "DWB",
+  "maintenanceEnabled": false,
+  "logEnabled": true,
+  "supportLinks": {
+    "openDepositAcctUrl": "https://itintranet8.keybank.com/uap/SvltUap?target=CtrlStart&mode=0&pc=CSC",
+    "fdicUrl": "https://www.fdic.gov/",
+    "brokerageAppUrl": "http://kis2.netxselect.com",
+    "openInvestmentAcctUrl": "https://itintranet8.keybank.com/uap/SvltUap?target=CtrlStart&mode=0&pc=IRA",
+    "openCreditAcctUrl": "https://itintranet8.keybank.com/uap/SvltUap?target=CtrlStart&mode=0",
+    "openLoanAcctUrl": "https://itintranet8.keybank.com/uap/SvltUap?target=CtrlStart&mode=0&pc=HLL",
+    "mortgageAppUrl": "https://secure.keybankmortgage.com/home/70864/landscape?jpid=LogIn&loginmode=registered",
+    "openCreditIncreaseUrl": "https://itintranet8.keybank.com/uap/SvltUap?target=CtrlStart&mode=0&pc=IRA",
+    "uapInSessionUrl": "http://localhost:90/pkmsso?https://itintranet8.keybank.com/uap/SvltUap?target=CtrlStart&mode=0",
+    "uapOutSessionUrl": "https://itintranet8.keybank.com/uap/SvltUap?target=CtrlStart&mode=0",
+    "financialWellnessDashboardUrl": "https://mystaging.hellowallet.com/HWWebApp.html#Dashboard",
+    "keyIb2LoginUrl":"https://ib2appit2.key.com/ib2/FrameController",
+    "keyUrl": "https://www.key.com",
+    "businessTaxUrl": "https://www.key.com/keytax",
+    "logOffUrl":"/ibxolb/olb/index.html#/login?stubs=true",
+    "srDomainNameUrl":"https://mfl.qa.truaxis.mastercard.com",
+    "timeTradeScheduleAppointmentUrl": "https://nc1stage01.timetradesystems.com/app/keybank/workflows/keybank001/schedule/?appointmentTypeGroupId=banking",
+    "kisPershingLogoutUrl" : "",
+    "kisJemStepLogoutUrl" : "",
+    "key2PurchaseUrl":"https://www.key2purchase.com/welcome.aspx?ReturnUrl=%2f",
+    "nooreUrl":"https://key2cre.key.com/cxp-manager/Key2Cre/home",
+    "key2PayrollUrl":"https://www.key.com/corporate/treasury-management/key-2-payroll.jsp",
+    "key2BusinessUrl":"https://www.key2businesscard.com",
+    "kefUrl":"http://www.keyequipmentfinance.com/",
+    "clientLineUrl":"https://www.myclientline.net",
+    "payTaxesUrl":"https://www.key.com/business/making-payments/tax-payments-key-tax.jsp",
+    "merchantServicesUrl":"https://www.merchantconnect.com/CWRWeb/displayMemberLogin.do",
+    "openNewAcctPersonalUrl":"https://ibxit2.keybank.com/pkmscdsso?https://www.key.com/openanaccount?sqkl=ibx_nav_open",
+    "openNewAcctBusinessUrl":"https://ibxit2.keybank.com/pkmscdsso?https://www.key.com/business/index.jsp",
+    "openNewAcctAtLoginUrl":"https://ibxit2.keybank.com/pkmscdsso?https://www.key.com/business/index.jsp",
+    "feedBackUrl":"https://secure.opinionlab.com/ccc01/comment_card_d.asp?referer=https%3A%2F%2Fapp-test.keybank.com/",
+    "disclosuresUrl":"https://www.key.com/personal/online-banking/online-banking-service-agreements.jsp",
+    "aoLandingUrl":"https://ibxit2.keybank.com/ibxao/ao/index.html#/home",
+    "bolstrLandingUrl":"https://ibxit2.keybank.com/business-lending/index.html"
+  },
+  "capabilities": [
+    {
+      "name": "LOGIN",
+      "enabled": true
+    },
+    {
+      "name": "ENROLLMENTS",
+      "enabled": true
+    },
+    {
+      "name": "FORGOT_PASSWORD",
+      "enabled": true
+    },
+    {
+      "name": "FORGOT_USER",
+      "enabled": true
+    },
+    {
+      "name": "CONVERSION",
+      "enabled": false
+    },
+    {
+      "name": "REMOTE_DEPOSIT",
+      "enabled": true
+    },
+    {
+      "name": "CARD_ACTIVATION",
+      "enabled": true
+    },
+    {
+      "name": "ENROLLMENTS_EXTENDED",
+      "enabled": true
+    },
+    {
+      "name": "ENROLLMENTS_CARD",
+      "enabled": true
+    },
+    {
+      "name": "NEXT_GEN_SECURITY",
+      "enabled": true
+    }
+  ]
+}
